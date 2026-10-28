@@ -1,0 +1,20 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Backups e versões antigas
+*.bak
+old/
+
+# Saída de ferramentas auxiliares
+graphify-out/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporários do Office
+~$*
